@@ -1,4 +1,4 @@
-# buffer-splice
+# buffer-splice [![Build Status](https://travis-ci.org/tjmehta/buffer-splice.svg)](https://travis-ci.org/tjmehta/buffer-splice) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 Splice a buffer.. like array and string splice
 
 # Installation

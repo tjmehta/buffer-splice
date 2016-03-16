@@ -1,0 +1,43 @@
+{
+  "name": "buffer-splice",
+  "version": "0.0.0",
+  "description": "Splice a buffer like array and string splice",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha ./test; istanbul check-coverage --statements 100 --branches 100 --functions 100 --lines 100"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjmehta/buffer-splice.git"
+  },
+  "keywords": [
+    "buffer",
+    "splice",
+    "pop",
+    "slice",
+    "split",
+    "buffers",
+    "remove"
+  ],
+  "author": "Tejesh Mehta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjmehta/buffer-splice/issues"
+  },
+  "homepage": "https://github.com/tjmehta/buffer-splice",
+  "dependencies": {
+    "101": "^1.5.0",
+    "assert-args": "^1.1.0",
+    "cast-buffer": "^1.1.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.2",
+    "mocha": "^2.4.5",
+    "splice-string": "^1.0.0",
+    "standard": "^6.0.8"
+  }
+}
