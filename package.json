@@ -1,6 +1,6 @@
 {
   "name": "buffer-splice",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Splice a buffer like array and string splice",
   "main": "index.js",
   "directories": {
