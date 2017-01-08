@@ -36,8 +36,8 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "istanbul": "^0.4.2",
-    "mocha": "^2.4.5",
-    "splice-string": "^1.0.0",
-    "standard": "^6.0.8"
+    "mocha": "^3.2.0",
+    "splice-string": "^2.0.0",
+    "standard": "^8.6.0"
   }
 }
